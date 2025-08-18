@@ -51,7 +51,7 @@ To run this project, follow these steps:
     pip install -r requirements.txt
     ```
 3.  **Download the dataset:**
-    The `GoEmotions.csv` dataset is included in this repository.
+    The `GoEmotions.csv` dataset kaggle or Google's github.
 
 4.  **Run the notebooks:**
     Open the files in the `notebooks/` directory using Jupyter Notebook, JupyterLab, or Google Colab.
@@ -62,5 +62,3 @@ To run this project, follow these steps:
 
 - **Mahmud** - [GitHub](https://github.com/Cyber-Mood/) - [LinkedIn](https://www.linkedin.com/in/mahmud-112ab0255/)
 - **Tanjila Hussen**
-
-*(Feel free to add your profile links here!)*
